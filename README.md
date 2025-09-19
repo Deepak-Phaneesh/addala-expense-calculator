@@ -6,16 +6,6 @@ A modern, responsive expense tracker built with **React** and **Material-UI** th
 
 ---
 
-## 📸 Screenshots
-
-| Dashboard                                            | Add Transaction                                                  |
-| ---------------------------------------------------- | ---------------------------------------------------------------- |
-| ![Dashboard Screenshot](./screenshots/dashboard.png) | ![Add Transaction Screenshot](./screenshots/add-transaction.png) |
-
-> _(Add screenshots inside a `screenshots` folder in your repo so they render here)_
-
----
-
 ## ✨ Features
 
 ✅ Add **income** and **expenses** with category, amount, and date  
